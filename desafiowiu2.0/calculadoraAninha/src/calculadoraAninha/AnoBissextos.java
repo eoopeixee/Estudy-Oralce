@@ -2,7 +2,7 @@ package calculadoraAninha;
 
 import java.util.*;
 
-public class ListaChamadaOrdenada {
+public class AnoBissextos {
 	
 	  public static void main(String[] args) {
 	        Scanner scanner = new Scanner(System.in);

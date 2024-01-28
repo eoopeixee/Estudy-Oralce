@@ -1,6 +1,6 @@
-## Project made in JAVA
+# Project made in JAVA
 
-# Projects:
+## Projects:
 - Leap year calculator
 - Ordered roll call
 - Salary calculator (Amount earned, amount of debts and calculations)
